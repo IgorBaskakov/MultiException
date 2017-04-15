@@ -6,7 +6,7 @@
     "exception",
     "error"
   ],
-  "description": "Multiexception - Stepancev`s pattern for PHP",
+  "description": "library classes of pattern multiexception for PHP",
   "authors": [
     {
       "name": "Igor Baskakov",
