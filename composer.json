@@ -1,0 +1,25 @@
+{
+  "name": "baskakov/multiexception",
+  "type": "library",
+  "keyword": [
+    "php",
+    "exception",
+    "error"
+  ],
+  "description": "Multiexception - Stepancev`s pattern for PHP",
+  "authors": [
+    {
+      "name": "Igor Baskakov",
+      "email": "igor.baskak@gmail.com",
+      "role": "Tester"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4" : {
+      "Multiexception" : "lib/"
+    }
+  }
+}
