@@ -1,1 +1,1 @@
-Личный репозиторий к библиотеке MultiException
+library classes of pattern MultiException
