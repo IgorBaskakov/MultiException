@@ -1,8 +1,6 @@
 <?php
 
-namespace Multiexception\Exceptions;
-
-use Multiexception\IteratorTrait;
+namespace Multiexception;
 
 /**
  * Class Errors
