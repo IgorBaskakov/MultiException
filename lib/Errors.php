@@ -1,6 +1,6 @@
 <?php
 
-namespace Baskakov\Multiexception;
+namespace Baskakov\MultiException;
 
 /**
  * Class Errors
