@@ -1,6 +1,6 @@
 <?php
 
-namespace Multiexception;
+namespace Baskakov\Multiexception;
 
 /**
  * Trait IteratorTrait

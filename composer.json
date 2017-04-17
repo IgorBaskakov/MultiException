@@ -1,6 +1,7 @@
 {
   "name": "baskakov/multiexception",
   "type": "library",
+  "license": "LGPL v.3",
   "keyword": [
     "php",
     "exception",
@@ -19,7 +20,7 @@
   },
   "autoload": {
     "psr-4" : {
-      "Multiexception\\" : "lib/"
+      "Baskakov\\Multiexception\\" : "lib/"
     }
   }
 }
